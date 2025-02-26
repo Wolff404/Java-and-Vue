@@ -1,1 +1,1 @@
-Each folder expands on the next. Oblig 5 is the final version.
+# Each folder expands on the previous one. Oblig 5 is the final version.
