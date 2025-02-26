@@ -1,0 +1,16 @@
+
+@startuml
+
+Main <|-- Production
+Production <|-- TVSeries
+TVSeries <|-- Episodes
+Production <|-- Movies
+Movies <|-- Roles
+Episodes <|-- Roles
+Roles <|-- Person
+
+
+Roles : - actor
+Roles : assignRole()
+
+@enduml
